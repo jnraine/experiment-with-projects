@@ -1,0 +1,2 @@
+install: true
+script: ls ls ls ls # Intentionally fail
